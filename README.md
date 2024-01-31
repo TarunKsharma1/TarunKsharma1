@@ -1,33 +1,20 @@
-<img align="left" height="150" src="https://i.ibb.co/kHNSVjZ/IMG-1313.jpg"  />
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="left">I'm Tarun Kumar Sharma from Gurugram</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunKsharma1.TarunKsharma1&"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="left">- 🔭 I’m working as Laravel Developer<br>- 📚 I'm currently learning new web tech languages & enhancing Old ones<br>- ⚡ In my free time I loves to Read about MERN and other techs.</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Tarun Kumar Sharma from Gurugram<br><br>- 🔭 I’m working as Laravel Developer<br>- 📚 I'm currently learning new web tech languages & enhancing Old ones<br>- ⚡ In my free time I loves to Read about MERN and other techs.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -63,16 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TarunKsharma1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###

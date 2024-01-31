@@ -3,6 +3,9 @@
 ###
 
 <p align="left">I'm Tarun Kumar Sharma from Gurugram</p>
+<p align="left">Checkout my portFolio  <a href="https://tarun-sharma-portfolio.vercel.app/">
+    <img src="https://t3.ftcdn.net/jpg/02/20/13/50/360_F_220135018_BgxHrwwnSuHWdM5bHRkhadycO2Ktzzx0.jpg" height="20" width=20 alt="portfolio" />
+  </a></p>
 
 ###
 
